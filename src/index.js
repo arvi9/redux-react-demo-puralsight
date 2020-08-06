@@ -15,6 +15,5 @@ render(
       <App />
     </Router>
   </ReduxProvider>,
-
   document.getElementById("app")
 );
