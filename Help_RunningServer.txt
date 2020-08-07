@@ -1,0 +1,2 @@
+1. Run the mockdb --> npm run start:api
+2. Start App --> npm run start
