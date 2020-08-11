@@ -1,2 +1,4 @@
-1. Run the mockdb --> npm run start:api
-2. Start App --> npm run start
+1.Start App --> npm run start 
+2.Run the mockdb --> npm run start:api
+3. Test Command --> npm t
+    3.1 press 'u' key to update snapshot test
